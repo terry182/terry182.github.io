@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://terry182.github.com/</loc>
+    <lastmod>2019-07-16T10:29:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/posts/</loc>
+    <lastmod>2019-07-16T10:29:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/tags/</loc>
+    <lastmod>2019-07-16T10:29:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/tags/travel/</loc>
+    <lastmod>2019-07-16T10:29:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/posts/euday1/</loc>
+    <lastmod>2019-07-16T10:29:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/posts/euday0_hugo/</loc>
+    <lastmod>2019-07-11T20:18:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/tags/misc/</loc>
+    <lastmod>2019-07-09T19:36:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/posts/anti-contradiction/</loc>
+    <lastmod>2019-07-09T19:36:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terry182.github.com/posts/restart_hugo/</loc>
+    <lastmod>2019-04-10T09:20:00+08:00</lastmod>
+  </url>
+  
+</urlset>
