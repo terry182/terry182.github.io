@@ -1,0 +1,31 @@
+---
+title: 歐洲遊記 Day 1
+date:  2019-07-16T10:29:00+02:00
+slug: euday1
+type: zhpost
+tags: 
+- "travel"
+---
+
+第一次真正意義上踏上了歐洲的土地，現在感覺還是很不真實。感謝我跟夥伴的玩心所致，多排了一些時間在當一個學生之前，可以認真享受一下旅遊的感覺。因為到達市中心的時候已經快11點了，而且晚餐也因為交通的時間排程要提早起，順勢我們便提早找午餐的店。
+
+到現在我還是忘不了在吃午餐前興趣所致而買的一杯咖啡~~[一定不是因為咖啡師很可愛](https://www.instagram.com/p/BvyJUdaBVmh/)~~，的確是相當好喝，後來一查名字才發現是維也納最好的7間咖啡店之一：[Fenster Cafe](https://www.instagram.com/fenstercafevienna/)，也就正好在我們午餐的店門口。
+
+午餐的店是我們在Google Map上隨便找的，幸好有英文的菜單我們不至於陷入隨機點餐的崩潰。點了牛肉配馬鈴薯的菜單
+
+{{< figure src="https://lh3.googleusercontent.com/L4dA2KGjTz3TQO62z2G4FYHZVngdSGvHC-MMM7Jz1qDk5SkEEo1Uc6BX9G8jsTLhWGB-2u0rXxob8ymXDLYr2AbVmoOKi91_PQRHVICR3LpTSyNN23eFH8sgRlUyyCQ2_KKNAaDdcIhz3ETfU2HXKOih7kaMTREUd1hoR0BUf3OTOY38ynnuJtRjmm-VNI7-1TUoNLm44lsJyZQOBlynnq_4h_wBvxTAejE4B_2PBN0_ANPg5SOJYmYx7G8lKzF3PcNlCvw-34E4t3eoiJfoDaztDCvPrVWQ2U4RRlVLyPpxPMRMKuAyBBdfxcqMhP5IGvvINl0daGO25BbJYkm31x88UG3QUxSu2vKA62VF6L8CqpVZOoNb0WBoUsCODTAtw_rGS4T9b4dk85Uwq0LBfB_V9Glc1Vk_xMRojJvvlGNWFE_3ZqEoPnq8WVzfmHNborMn_AgcaEz9HK4v1axnLE943PxvcAPTLyB26sSLfleqdYbPYSCuxErOUliigNADYGOtq8q0-NFX-7I7I0S3J76oNhv0U6RS_0QzKtS9yTa4ktXs7jl9ApMFslb-CZ6viNpt_-ng-6A-_AdrHnOd26UouTsSeppQpAnxJ7YodryerbsrEGqIrTYsVu8xNA8yK6dZ2SiH00Kgv_GLv1Vk9d9QFrDBWcEOdEjg2jZ2WedxItxNKgBl5pIZ5wegNS_7Vj1kZPv3B9KCwhxJHvT9D0z2=w1087-h816-no" title="上面的炸洋蔥配上底下的紅酒醬相當過癮" >}}
+
+
+吃飽喝足後便是參觀時間，市中心的St Stephen Cathedral相當壯觀。
+
+
+
+在不停地亂走之中我們到了Film Festival，但由於德文一個字都不懂於是只能喝酒，但沒想到隊友是如此的不能喝酒（為什麼我的朋友都不太能喝酒）
+
+{{< figure src="https://lh3.googleusercontent.com/v2fQdlTzjFQzF0N4TLS6uo1uGziEhY8iTQu6C7FIuFsxPXxS1l8IBZIgiiiwHyuY4oeu-AdvLpHW5YnmjAtGwY5vrNO1u5NGwTRSE6YUQ1G6y5b8YpYnJ5E-9WvRa0d_WAIPYbYjeDzobCpjNCrP39ueZOxoSsftmOYvNQeQFSnNehP_3sVGu0WBM3UKiP4bO8Sp9Uk9GrC6ZXN2TrMV53k-QD7mUroioQhOxRIK7PkpNaZf5wIWXJ10ESFLylXj_DvJvBSjBDE5X_VS4pXhNtkSPocHzUmXwyghVJxSlXULAOcj-OURsgDQ4240haQjuoJ62l9wcfbxqFDXWUZau4TBQFI6eUjJC1H0wRddpEwCCyzNbo_IteD_LX58GCXMcHla0jcEQT2DCRY8ASr6YGDWzu7EV6kaWUyMGa8WdQ0SzLhU-1RuGaSpVltsRgBhp7ikszkN72AslkmtwHQFa4L0Ie2L-z-KLeHsl7RmP116hIKNyaFkyE6f9j0xQmH-VUUqvLxKmyr-tN-yPLSHoYTvrmiSmubhey2HHM9svN35tmudYDf25qj1BSN6qfqTGiqUoLo4I7lze8Fa6EkwXua7PMh02j5pJmdowJ1zARVf7BFIAYSgEckVdGX52MHNSarBLDkxnxhWeFEf2l7EZlH-yd_N2IOsWl-3mX2wb7dyIWlgMndj8mxIgkanK5XbEvXPumwM8Sbzg3Tuka6sOt3q=w1222-h1628-no" title="維也納的啤酒也很不錯" width="50%" height="50%" >}}
+
+
+
+----
+Photo credit: My partner :)  
+GECCO很忙，只能慢慢抓出時間寫。
