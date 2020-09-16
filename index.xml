@@ -11,5 +11,16 @@
 	<atom:link href="https://terry182.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>https://terry182.github.io/about-me/</link>
+      <pubDate>Tue, 16 Jul 2019 09:34:53 +0200</pubDate>
+      
+      <guid>https://terry182.github.io/about-me/</guid>
+      <description>Greetings, I am Hou Teng Cheong, currently a M.S. student in Computer Science and Information Engineering at National Taiwan University. I received my B.S. in Electrical Engineering at National Taiwan University in the year 2018.
+My research interest includes algorithm design, computational complexity and graph theory. Recently my research focus on hole detecting algorithms.
+I am going to receive my M.S. degree in this year and looking for a Ph.</description>
+    </item>
+    
   </channel>
 </rss>
