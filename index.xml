@@ -7,9 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    
-	<atom:link href="https://terry182.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 05 Apr 2020 08:10:09 +0800</lastBuildDate><atom:link href="https://terry182.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on detecting odd/even Hole</title>
+      <link>https://terry182.github.io/posts/notes-on-odd-hole/</link>
+      <pubDate>Sun, 05 Apr 2020 08:10:09 +0800</pubDate>
+      
+      <guid>https://terry182.github.io/posts/notes-on-odd-hole/</guid>
+      <description>For a graph $G = (V, E)$, we say $G$ contains a hole with length $\ell \ge 4$ if there is an induced cycle with length $\ell$. An odd (even) hole is a hole with $\ell$ being odd (even, respectively).
+From the Strong Perfect Graph Theorem, a graph that has neither an odd hole nor an odd anti-hole (a hole that is in the complement graph) is perfect. That is, $$ \omega(H) = \chi(H) $$ for all induced subgraph $H$ of $G$.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,9 +24,9 @@
       <pubDate>Tue, 16 Jul 2019 09:34:53 +0200</pubDate>
       
       <guid>https://terry182.github.io/about-me/</guid>
-      <description>Greetings, I am Hou Teng Cheong, currently a M.S. student in Computer Science and Information Engineering at National Taiwan University. I received my B.S. in Electrical Engineering from NTU in 2018.
+      <description>Greetings, I am Hou Teng Cheong, currently an M.S. student in Computer Science and Information Engineering at National Taiwan University. I received my B.S. in Electrical Engineering from NTU in 2018.
 My research interest includes algorithm design, computational complexity and graph theory. Recently my research focus on hole detecting algorithms.
-I am going to receive my M.S. degree in this year and looking for a Ph.D. position in Fall 2021.</description>
+I am going to receive my M.S. degree in this year and looking for a PhD position in Fall 2021.</description>
     </item>
     
   </channel>
